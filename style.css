@@ -1,0 +1,51 @@
+/* to jest komentarz w pliku CSS */
+body {background-color: ghostwhite;}
+h1  {	color: blue;
+		font-family: algerian;
+		font-size: 100px;
+	}
+h2  {
+		color: blue;
+		font-family: algerian;
+		font-size: 100px;
+	}
+h3  {
+		color: cornflowerblue;
+		font-family: algerian;
+		font-size: 100px;
+p   {
+		text-align: center;
+		color: grey;
+		font-family: 'Edu TAS Beginner', cursive;
+		font-size: 30px;
+	}
+a:link {
+  color: lightskyblue;
+  background-color: transparent;
+  text-decoration: none;
+  font-size: 40px;
+}
+button {
+  color: black;
+  padding: 200px;
+  font-family: 'Kanit', sans-serif;
+  font-size: 100px;
+  background-color: gold;
+  text-decoration: none;
+  border: 10px solid black;
+}
+a:visited {
+  color: lightskyblue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
